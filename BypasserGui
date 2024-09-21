@@ -1,7 +1,7 @@
 game.StarterGui:SetCore('SendNotification', {
 Title = 'Byasser GUI ';
 Text = 'Injected';
-Icon = 'rbxassetid://80373024';
+Icon = 'rbxassetid://13772180932';
 Duration = 3;
 })
 wait(2)
