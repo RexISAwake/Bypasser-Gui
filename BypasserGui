@@ -11,6 +11,8 @@ print([[
 
 ]])
 printidentity()
+print("Some Things Copied From Inf Yield")
+print("New V1")
  if IY_LOADED and not _G.IY_DEBUG == true then
     -- error("Bypasser GUI is already running!", 0)
     return
