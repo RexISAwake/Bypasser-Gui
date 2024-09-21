@@ -5,7 +5,6 @@ Icon = 'rbxassetid://80373024';
 Duration = 3;
 })
 wait(2)
-
 print("Injected WinAPI")
 print("Credits To: Ergi Kapllani!")
 print([[
