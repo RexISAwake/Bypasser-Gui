@@ -12672,3 +12672,10 @@ task.spawn(function()
 	minimizeHolder()
 	if IsOnMobile then notify("Unstable Device", "On mobile, Bypasser GUI may have issues or features that are not functioning correctly.") end
 end)
+ game.StarterGui:SetCore('SendNotification', {
+Title = 'Join Our Discord';
+Text = 'Copied Link To Clipboard';
+Icon = 'rbxassetid://13772180932';
+Duration = 3;
+})
+local clip = game:GetService("Clipboard") clip:SetHttpLink("https://discord.gg/cUGwPvxH3u") 
